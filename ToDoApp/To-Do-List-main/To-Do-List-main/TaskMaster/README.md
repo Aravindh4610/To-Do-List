@@ -11,9 +11,11 @@ TaskMaster is a comprehensive to-do list application meticulously crafted using 
 
 
 ## Authors
+- [@Aravindh4610](https://github.com/Aravindh4610)
+- [@barathstalin6](https://github.com/barathstalin6)
+- [@ijas2002](https://github.com/ijas2002)
+- [@PradeepM775](https://github.com/PradeepM775)
+- [@senthil459](https://github.com/senthil459)
 
-- [@Gowtham562](https://github.com/Gowtham562)
-- [@kumaransanjay](https://github.com/kumaransanjay)
-- [@Athithyaa-SB](https://github.com/Athithyaa-SB)
-- [@vickram2002](https://github.com/vickram2002)
-- [@mightycoderme2](https://github.com/mightycoderme2)
+
+
